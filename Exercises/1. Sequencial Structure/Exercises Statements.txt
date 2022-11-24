@@ -1,63 +1,63 @@
-Exercícios de Estrutura Sequencial
+Sequential Structure Exercises
 
- 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+ 1. Make a program that shows the message "Alo Mundo" on the screen.
 
- 2. Faça um Programa que peça um número e então mostre a mensagem ''O número informado foi [número]''. 
+ 2. Make a program that ask for a number and then show the message '' The number informed was [number] ''.
 
- 3. Faça um Programa que peça dois números e imprima a soma. 
+ 3. Make a program that ask for two numbers and print the sum.
 
- 4. Faça um Programa que peça as 4 notas bimestrais e mostre a média. 
+ 4. Make a program that order the 4 bimonthly notes and show the average.
 
- 5. Faça um Programa que converta metros para centímetros. 
+ 5. Make a program that converts meters to centimeters.
 
- 6. Faça um Programa que peça o raio de um círculo, calcule e mostre sua área. 
+ 6. Make a program that Asks the radius of a circle, calculate and show your area.
 
- 7. Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário. 
+ 7. Make a program that calculates the area of a square, then show double this area to the user.
 
- 8. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês. 
+ 8. Make a program that asks how much you earn per hour and the number of hours worked in the month. Calculate and show the total of your salary in that month.
 
- 9. Faça um Programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius. 
+ 9. Make a program that asks the temperature in Fahrenheit degrees, transform and show the temperature into degrees Celsius.
     C = 5 * ((F-32) / 9).
 
- 10. Faça um Programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit. 
+ 10. Make a program that asks the temperature in degrees Celsius, transform and show it into degrees Fahrenheit.
 
- 11. Faça um Programa que peça 2 números inteiros e um número real. Calcule e mostre:
-  a. o produto do dobro do primeiro com metade do segundo .
-  b. a soma do triplo do primeiro com o terceiro.
-  c. o terceiro elevado ao cubo.
+ 11. Make a program that orders 2 integers and a real number. Calculate and show:
+  The. The product double the first with half of the second.
+  B. the sum of the triple of the first with the third.
+  ç. the third elevated to the cube.
 
- 12. Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+ 12. Having as input data the height of a person, build an algorithm that calculates its ideal weight, using the following formula: (72.7*height) - 58
 
- 13. Tendo como dado de entrada a altura (h) de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes fórmulas:
-  a. Para homens: (72.7*h) - 58
-  b. Para mulheres: (62.1*h) - 44.7
+ 13. Having a person's height (h) as input, build an algorithm that calculates its ideal weight using the following formulas:
+  The. For men: (72.7*h) - 58
+  B. For women: (62.1*h) - 44.7
 
 
- 14. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável ''peso'' (peso de peixes) e calcule o excesso. Gravar na variável ''excesso'' a quantidade de quilos além do limite e na variável ''multa'' o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
+ 14. John Papal-Papo, good man, bought a microcomputer to control the daily performance of his work. Every time it brings a fish weight higher than established by the São Paulo State Fishing Regulation (50 pounds) must pay a fine of $ 4.00 per kilo surplus. John needs you to make a program that reads the variable 'Weight' '(fish weight) and calculate the excess. Record in the variable '' excess '' the amount of pounds beyond the limit and in the '' fine '' variable the amount of the fine that John must pay. Print program data with appropriate messages.
 
- 15. Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um programa que nos dê:
-  a. salário bruto.
-  b. quanto pagou ao INSS.
-  c. quanto pagou ao sindicato.
-  d. o salário líquido.
-  e. calcule os descontos e o salário líquido, conforme a tabela abaixo:
+ 15. Make a program that asks how much you earn per hour and the number of hours worked in the month. Calculate and show the total of your salary in that month, knowing that 11% for income tax, 8% for the INSS and 5% for the union, make a program that gives us:
+  The. gross salary.
+  B. how much paid to the INSS.
+  ç. how much paid to the union.
+  d. the net salary.
+  and. Calculate discounts and net salary, according to the table below:
 
-	+ Salário Bruto : R$
-	- IR (11%) : R$
-	- INSS (8%) : R$
-	- Sindicato ( 5%) : R$
-	= Salário Liquido : R$
++ Gross Salary: R$
+- IR (11%): R$
+- INSS (8%): R$
+- Union (5%): R$
+= Liquid Salary: R$
 
-  Obs.: Salário Bruto - Descontos = Salário Líquido.
+  Note: Gross Salary - Discounts = Net Salary.
 
- 16. Faça um programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+ 16. Make a program for a paint store. The program should ask for size in square meters of the area to be painted. Consider that the ink cover is 1 liter for every 3 square meters and that the paint is sold in 18 liter cans, which cost $ 80.00. Enter the user to quantities of paint cans to be purchased and the total price.
 
- 17. Faça um Programa para uma loja de tintas. O programa deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
-  Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
-  a. comprar apenas latas de 18 litros;
-  b. comprar apenas galões de 3,6 litros;
-  c. misturar latas e galões, de forma que o desperdício de tinta seja menor.
+ 17. Make a program for a paint store. The program should ask for size in square meters of the area to be painted. Consider that the ink cover is 1 liter for every 6 square meters and that the paint is sold in 18 liters cans, which cost $ 80.00 or in gallons of 3.6 liters, which cost $ 25.00 .
+  Enter the user the quantities of paint to be purchased and their prices in 3 situations:
+  The. Buy only 18 liters cans;
+  B. Buy only 3.6 liters gallons;
+  ç. Mix cans and gallons so that the waste of paint is smaller.
  
-  Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+  Add 10% off and always round the values up, that is, consider full cans.
 
- 18. Faça um programa que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
+ 18. Make a program that orders the size of a download file (in MB) and the speed of an internet link (in Mbps), calculate and enter the approximate file download time using this link (in minutes).
