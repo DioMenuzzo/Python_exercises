@@ -1,4 +1,4 @@
-#4. Faça um Programa que peça as 4 notas bimestrais e mostre a média. 
+#4. Make a program that order the 4 bimonthly notes and show the average. 
 
 i = 1
 
