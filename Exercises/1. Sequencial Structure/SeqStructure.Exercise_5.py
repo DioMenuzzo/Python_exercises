@@ -1,4 +1,4 @@
-#5. Make a program that converts meters to centimeters.
+#5. Make a program that converts meters to centimeters and centimeter to meters.
 
 i = 1
 
