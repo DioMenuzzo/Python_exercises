@@ -6,7 +6,7 @@ while i == 1:
     number = input('Type a number: ')
     
     if number.isdecimal() == True:
-        print(f'You typed the number {number}')
+        print(f'The number informed was {number}')
         i = 0
     
     else:
