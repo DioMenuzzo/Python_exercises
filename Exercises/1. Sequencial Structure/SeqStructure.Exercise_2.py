@@ -1,4 +1,4 @@
-#2. Faça um Programa que peça um número e então mostre a mensagem ''O número informado foi [número]''. 
+#2. Make a program that ask for a number and then show the message ''The number informed was [number]''.
 
 i = 1
 
