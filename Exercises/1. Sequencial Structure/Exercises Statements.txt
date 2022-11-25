@@ -1,8 +1,8 @@
 Sequential Structure Exercises
 
- 1. Make a program that shows the message "Alo Mundo" on the screen.
+ 1. Make a program that shows the message "Hello world" on the screen.
 
- 2. Make a program that ask for a number and then show the message '' The number informed was [number] ''.
+ 2. Make a program that ask for a number and then show the message ''The number informed was [number]''.
 
  3. Make a program that ask for two numbers and print the sum.
 
