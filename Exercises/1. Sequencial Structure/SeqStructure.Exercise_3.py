@@ -1,4 +1,4 @@
-#3. Faça um Programa que peça dois números e imprima a soma. 
+#3. Make a program that ask for two numbers and print the sum.
 
 i = 1
 
